@@ -21,7 +21,7 @@
  
  ### Данные для обучения и веса моделей
  
- Нужно добавить на свой Google-drive папку `ml` с весами и моделями:
+ Нужно добавить на свой Google-drive папку `itis-fast-ai-text` с весами и моделями:
  https://drive.google.com/drive/folders/1rKZLehhvsveyYQoTFreZ3DtQPyaRkXUL?usp=sharing
  
  ### Полезные ссылки
