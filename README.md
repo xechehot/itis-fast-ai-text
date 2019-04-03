@@ -1,4 +1,4 @@
-# Воркшоп "Обработке текста на Fast AI"
+# Воркшоп "Обработка текста на Fast AI"
 
 ## Для конференции #ITIS 2019
 
@@ -10,20 +10,22 @@
 1. На вкладке `Github` вводи адрес этого репозитория - `https://github.com/xechehot/itis-fast-ai-text`
 1. Выбирай ноутбук `kinopoisk-reveiws.ipynb` - он откроется в этой или новой вкладке
 1. Сделай копию ноутбука на свой Google-drive, чтобы можно было вносить изменения
+в ноутбук
 
 ### Внимание!
 
-При запуске важно проверить, что в качестве Runtime type
- был выбран Python 3 и Hardware accelerator **GPU**.
+При запуске важно убедиться, чтобы в качестве Runtime type
+ был выбран **Python 3** и Hardware accelerator – **GPU**.
  
- Проверить это можно выбрав в меню `Runtime` -> `Change runtime type`
+Проверить это можно выбрав в меню `Runtime` -> `Change runtime type`
  
  
  ### Данные для обучения и веса моделей
  
  Нужно добавить на свой Google-drive папку `itis-fast-ai-text` с весами и моделями:
  https://drive.google.com/drive/folders/1rKZLehhvsveyYQoTFreZ3DtQPyaRkXUL?usp=sharing
- 
+
+
  ### Полезные ссылки
  
  [Конференция ITIS 2019](https://itis.is74.ru/conf/)
@@ -35,3 +37,4 @@
  и познакомиться с фреймворком Fast AI
  
  [Кинопоиск](https://www.kinopoisk.ru) - пожалуй, лучший портал о кино
+ 
